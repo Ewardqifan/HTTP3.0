@@ -1,3 +1,3 @@
 # Net_Pro
 
-learn net progr
+learn net programm
