@@ -4,7 +4,7 @@ import socket
 sockfd = socket.socket()
 
 #建立连接
-server_addr = ('127.0.0.1',8888)
+server_addr = ('127.0.0.1',8000)
 sockfd.connect(server_addr)
 
 #收发消息,先发后收

@@ -36,6 +36,7 @@ def music():
 t = Thread(target=music, name='play_music')
 print(t)
 print(t.is_alive())
+print(t)
 t.start()
 print(t.is_alive())
 # 主线程
